@@ -4,15 +4,15 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e(config('site_name'));?> - 私人云服务</title>
-	<link rel="shortcut icon" href="//yun.zhebk.cn/theme/favicon.ico">
+	<link rel="shortcut icon" href="https://www.xn--fiq4mv6jp6dpqypg4e.com//view/themes/nexmoe-up/theme/favicon.ico">
 	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
-	<link rel="stylesheet" href="//yun.zhebk.cn/theme/style.css">
+	<link rel="stylesheet" href="https://www.xn--fiq4mv6jp6dpqypg4e.com//view/themes/nexmoe-up/theme/style.css">
 	<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script>
 </head>
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 	<header class="nav">
 		<div class="navSize">
-			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=945203919&s=100"/></a>
+			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=1594959462&s=100"/></a>
 			<div class="navRight">
 				<ul class="navul">
 					<li class="navli"><a href="//zhebk.cn" target="_blank">博客</a></li>
@@ -21,6 +21,7 @@
 				<div class="icon"></div>
 			</div>
 		</div>
+		
 	</header>
 	<div class="mdui-container">
 	    <div class="mdui-container-fluid">
